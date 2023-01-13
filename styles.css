@@ -1,1 +1,14 @@
-/* your code */
+table, th, td {
+	border: 1px solid black;
+	color: black;
+	border-collapse: collapse;
+}
+
+th, td {
+	background-color: white;
+}
+
+table {
+	width: 50%;
+	text-align:center;
+}
